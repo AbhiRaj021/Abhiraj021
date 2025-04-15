@@ -97,13 +97,13 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Github Stats :</h3>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiraj021&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-</div>
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abhiraj021"/></a>
+</p>
 
 
 ###
